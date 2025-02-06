@@ -1,0 +1,10 @@
+{
+  "name": "Decky Automata",
+  "description": "Nier Automata Ui sound for decky loader.",
+  "author": "Levania",
+  "version": "v0.1",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
